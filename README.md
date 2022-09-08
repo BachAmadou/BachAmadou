@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">I am a full-stack software engineer interested in creating web applications that can impact businesses in a globally</h3>
 
-<p align="center"> <a href="https://twitter.com/BachirA22732750" target="blank"><img src="https://img.shields.io/twitter/follow/buer_maze?logo=twitter&style=for-the-badge" alt="buer_maze" /></a> </p>
+<p align="center"> <a href="https://twitter.com/BachirA22732750" target="blank"><img src="https://img.shields.io/twitter/follow/Bachir Amadou S.?logo=twitter&style=for-the-badge" alt="Bachir Amadou S." /></a> </p>
 
 - ⚡ Fun fact **I like to make short video in my spare time!**
 
