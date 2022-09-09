@@ -9,7 +9,6 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">I am a full-stack software engineer interested in creating web applications that impact people & businesses</h3>
 
-<p align="center"> <a href="https://twitter.com/BachirA22732750" target="blank"><img src="https://twitter.com/BachirA22732750" alt="Bachir Amadou S." /></a> </p>
 
 - ⚡ Fun fact **I like to make short video in my spare time!**
 
