@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <!-- <h1 align="center"><img src="https://github.com/MazeBuer/MazeBuer/blob/main/SWEBanner.png"> -->
 
 
-<h2 align="center">I am a full-stack software engineer interested in creating web applications that impact people & businesses</h2>
+<h2 align="center">I am a Full Stack Developer interested in creating web applications that impact people & businesses</h2>
 
 
 <p align="center"> ⚡ Fun fact: I like to make short marketing videos in my spare time! </p>
