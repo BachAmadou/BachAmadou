@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">I am a full-stack software engineer interested in creating web applications that impact people & businesses</h3>
 
 
-- ⚡ Fun fact **I like to make short video in my spare time!**
+<p align="center"> ⚡ Fun fact: I like to make short video in my spare time! </p>
 
 <h3 align="center">👨‍💻 Connect with me:</h3>
 <p align="center">
