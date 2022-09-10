@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **I like to make short video in my spare time!**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">👨‍💻 Connect with me:</h3>
 <p align="center">
 <a align="center" href="https://twitter.com/BachirA22732750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buer_maze" height="30" width="40" />
  </a>
