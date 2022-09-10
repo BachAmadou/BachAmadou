@@ -36,6 +36,47 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
+
+
+### Frontend
+<div align="center">
+<img style="margin: 10px" src="https://i.imgur.com/Cah19Z9.gif" alt="React" height="50" />
+<img style="margin: 10px" src="https://i.imgur.com/Mhm8gqE.gif" alt="Bootstrap" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+<img style="margin: 10px" src="https://i.imgur.com/a3PjpmG.gif" alt="HTML5" height="50" />
+<img style="margin: 10px" src="https://i.imgur.com/2qN4sBt.gif" alt="JavaScript" height="50" />
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend
+<div align="center">
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> -->
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /> -->
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+</div>
+
+</td></tr></table>
+
+
+
 <table bordercolor="#ff69b4">
 
 
