@@ -14,7 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+### My Twitter: 
 <a href="https://twitter.com/BachirA22732750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buer_maze" height="30" width="40" /></a>
+### My LinkedIn: 
 <a href="https://www.linkedin.com/in/bachir-amadou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bachir-amadou/" height="30" width="40" /></a>
 </p>
 
