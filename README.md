@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <p>
 
 
-## 🚀 Languages and Tools:
+ <h3 align="center">🚀 Languages and Tools:</h3>
 <p align="center">
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -35,7 +35,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
 </p
-
 
 
 <table bordercolor="#ff69b4">
