@@ -10,14 +10,13 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">I am a full-stack software engineer interested in creating web applications that impact people & businesses</h3>
 
 
-<p align="center"> ⚡ Fun fact: I like to make short video in my spare time! </p>
+<p align="center"> ⚡ Fun fact: I like to make short marketing videos in my spare time! </p>
 
 <h3 align="center">👨‍💻 Connect with me:</h3>
 <p align="center">
-<a align="center" href="https://twitter.com/BachirA22732750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buer_maze" height="30" width="40" />
- </a>
-<a align="center" href="https://www.linkedin.com/in/bachir-amadou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bachir-amadou/" height="30" width="40" />
-</a>
+<a align="center" href="https://twitter.com/BachirA22732750" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buer_maze" height="30" width="40" /></a>
+<a align="center" href="https://www.linkedin.com/in/bachir-amadou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bachir-amadou/" height="30" width="40" /></a>
 <p>
 
 
@@ -34,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-</p
+</p>
 
 
 <table bordercolor="#ff69b4">
