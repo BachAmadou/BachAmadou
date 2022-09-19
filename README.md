@@ -43,16 +43,20 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Educational Space Exploration</h3>
 <br />
 <a target="_blank" href="https://explorenasa.netlify.app/">
-<img src="https://github.com/MazeBuer/NASAExploration/blob/main/css/images/NASAGif.gif" width="100%" alt="NASA App"/>
+
 </a>
 <br />
 <p align="center">
 
 <a href="https://github.com/MazeBuer/NASAExploration.git" target="_blank">
-<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=ff69b4&style=plastic&logo=github&logo-color=white"/>
+<img 
+
+https://user-images.githubusercontent.com/25463206/191130684-6ae269c8-df8f-484c-9b84-c4c5cb022974.mp4
+
+/>
 </a>
 <a href="https://explorenasa.netlify.app/" target="_blank">
-<!-- <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff69b4&style=plastic&logo=wordpress&logo-color=white"/> -->
+
 </a>
 </p>
 <p><strong>JavaScript, Node.JS, Express, NASA API</strong> - Educational platform where you can explore NASA's space photos based on planet and date. Don't forget to meet the brave astronauts!</p>
@@ -61,10 +65,8 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Federation Field Guide for Aliens</h3>
 <br />
 <a target="_blank" href="https://startrekalienguide.netlify.app/">
-<!-- <img src="https://github.com/MazeBuer/StarTrek-API/blob/main/StarTrek_Aliens_AdobeExpress.gif" width="100%" alt="StarTrek App"/> -->
- 
 
-https://user-images.githubusercontent.com/25463206/191130361-1401de37-6659-461a-bf68-e02ad7db6722.mp4
+
 
 
 </a>
