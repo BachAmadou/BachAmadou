@@ -42,78 +42,64 @@ You can click the Preview link to take a look at your changes.
 <td width="50%" valign="top">
 <h3 align="center">Educational Space Exploration</h3>
 <br />
-<a target="_blank" href="https://explorenasa.netlify.app/">
-
-</a>
+<a target="_blank" href="https://explorenasa.netlify.app/"></a>
 <br />
+ 
 <p align="center">
-
 <a href="https://github.com/MazeBuer/NASAExploration.git" target="_blank">
-<img 
-
-https://user-images.githubusercontent.com/25463206/191130684-6ae269c8-df8f-484c-9b84-c4c5cb022974.mp4
-
-/>
+<img/>
 </a>
-<a href="https://explorenasa.netlify.app/" target="_blank">
-
-</a>
+<a href="https://explorenasa.netlify.app/" target="_blank"></a>
 </p>
+ 
+ 
 <p><strong>JavaScript, Node.JS, Express, NASA API</strong> - Educational platform where you can explore NASA's space photos based on planet and date. Don't forget to meet the brave astronauts!</p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center">Federation Field Guide for Aliens</h3>
 <br />
-<a target="_blank" href="https://startrekalienguide.netlify.app/">
-
-
-
-
-</a>
+<a target="_blank" href="https://startrekalienguide.netlify.app/"></a>
 <br />
+ 
+ 
 <p align="center">
-
-<a href="https://github.com/MazeBuer/StarTrek-API.git" target="_blank">
-<!-- <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=ff69b4&style=plastic&logo=github&logo-color=white"/> -->
-</a>
+<a href="https://github.com/MazeBuer/StarTrek-API.git" target="_blank"></a>
 <a href="https://startrekalienguide.netlify.app/" target="_blank">
-<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff69b4&style=plastic&logo=wordpress&logo-color=white"/>
-</a>
+<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff69b4&style=plastic&logo=wordpress&logo-color=white"/></a>
 </p>
+ 
+ 
 <p><strong>JavaScript, Node.JS, Express, RestAPI, MongoDB </strong> - The Star Trek alien guide gives you details about your favorite species including an image, their homeworld, and a character.</p>
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 <h3 align="center">Belmont Listing</h3>
 <br />
-<a target="_blank" href="https://belmontlisting.netlify.app/">
-<!-- <img src="https://github.com/MazeBuer/RealEstateListing/blob/main/Listing_gif.gif" width="100%" alt="Belmont Listing Site"/> -->
-</a>
+<a target="_blank" href="https://belmontlisting.netlify.app/"></a>
 <br />
+ 
+ 
+ 
 <p align="center">
-<a href="https://github.com/MazeBuer/RealEstateListing.git" target="_blank">
-<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=ff69b4&style=plastic&logo=github&logo-color=white"/>
-</a>
+<a href="https://github.com/MazeBuer/RealEstateListing.git" target="_blank"></a>
 <a href="https://belmontlisting.netlify.app/" target="_blank">
-<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff69b4&style=plastic&logo=wordpress&logo-color=white"/>
-</a>
+<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff69b4&style=plastic&logo=wordpress&logo-color=white"/></a>
 </p>
+ 
+ 
+ 
 <p><strong>HTML, CSS, & Javascript</strong> - New property listing for Realtor marketing purpose to increase traffic flow of potential buyers.</p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center">MazeBuer.com</h3>
 <br />
-<a target="_blank" href="https://mazebuer.com/">
-<img src="https://github.com/MazeBuer/MazeBuer.com/blob/main/Portfolio_gif.gif" width="100%" alt="Portfolio"/>
-</a>
+<a target="_blank" href="https://mazebuer.com/"></a>
 <br />
+ 
+ 
 <p align="center">
-
-<a href="https://github.com/MazeBuer/MazeBuer.com.git" target="_blank">
-<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=ff69b4&style=plastic&logo=github&logo-color=white"/>
-</a>
+<a href="https://github.com/MazeBuer/MazeBuer.com.git" target="_blank"></a>
 <a href="https://mazebuer.com/" target="_blank">
 <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff69b4&style=plastic&logo=wordpress&logo-color=white"/>
 </a>
@@ -121,5 +107,6 @@ https://user-images.githubusercontent.com/25463206/191130684-6ae269c8-df8f-484c-
 <p><strong>HTML, CSS, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
 </td>
 </tr>
+ 
 </table
 
