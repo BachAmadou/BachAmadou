@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<table bordercolor="#ff69b4">
+<!-- <table bordercolor="#ff69b4">
 <tr>
 <td width="50%" valign="top">
 <h3 align="center">Educational Space Exploration</h3>
@@ -111,3 +111,4 @@ You can click the Preview link to take a look at your changes.
  
 </table
 
+ -->
